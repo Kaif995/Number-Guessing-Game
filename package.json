@@ -1,0 +1,26 @@
+{
+  "name": "cli_number_guessing_game",
+  "version": "1.0.0",
+  "description": "CLI Number Guessing Game with typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaif995/Number-Guessing-Game.git"
+  },
+  "author": "Kaif Shamim'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaif995/Number-Guessing-Game/issues"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "homepage": "https://github.com/Kaif995/Number-Guessing-Game#readme"
+}
